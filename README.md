@@ -1,4 +1,4 @@
-# IIIT Hyderabad 
+# IIIT Hyderabad Curriculum and Syllabus
 
 This is an archive of the syllabus and course offerings for ALL branches in IIIT-H maintained by an IIITian.
 
