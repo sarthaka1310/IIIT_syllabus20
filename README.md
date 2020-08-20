@@ -3,7 +3,7 @@
 This is an archive of the syllabus and course offerings for ALL branches in IIIT-H maintained by an IIITian.
 
 This [Handbook](/Curriculum%20Handbook/UG-Dual_Curricula-2018.pdf) provides detailed explanation of the course structure and requirements for all UG and DD branches (except CHD, which is similar to CLD and CND).
-## NOTE: If you do not understand something, going through this Handbook will mostly solve your problem, else ask at [Counselling Forum](https://www.facebook.com/groups/iiithcounsellingforum/?ref=nf_target&fref=nf&__tn__=C-R)
+###### NOTE: If you do not understand something, going through this Handbook will mostly solve your problem, else ask at [Counselling Forum](https://www.facebook.com/groups/iiithcounsellingforum/?ref=nf_target&fref=nf&__tn__=C-R)
 
 The first semester for a student is a monsoon semester and then follows a spring semester and so on (The first semester for me, a CHD2k19 student, was Monsoon 2019)
 
